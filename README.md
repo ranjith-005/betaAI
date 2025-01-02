@@ -30,7 +30,7 @@
             </ol>
         </section>
         <section id="review">
-            <h2>🔍 Reviewing Process</h2>
+            <h2>Reviewing Process</h2>
             <p>
                 Once you create a pull request, it will be reviewed. If changes are required, you will be notified in the PR comments. 
                 Once approved, your submission will be merged into the main branch.
