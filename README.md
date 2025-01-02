@@ -37,7 +37,7 @@
             </p>
         </section>
         <section id="rules">
-            <h2>⚠️ Rules for Submissions</h2>
+            <h2>Rules for Submissions</h2>
             <ul>
                 <li>Each submission must be in its own branch.</li>
                 <li>Use descriptive commit messages for clarity.</li>
@@ -58,7 +58,7 @@
             </ul>
         </section>
         <section id="tip">
-            <h2>💡 Tip</h2>
+            <h2>Tip</h2>
             <p>
                 Always pull the latest changes from the main branch before creating a new branch:
             </p>
