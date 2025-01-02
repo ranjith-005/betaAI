@@ -8,11 +8,11 @@
 <body>
     <header>
         <h1>BetaLabs AI Project</h1>
-        <p>This repository is designed for Group 5 members to submit their work for review. All submissions will be reviewed and approved before being merged into the main branch.</p>
+        <p>This repository is designed for Group 2 members to submit their work for review. All submissions will be reviewed and approved before being merged into the main branch.</p>
     </header>
     <main>
         <section id="submission">
-            <h2> How to Submit Your Work</h2>
+            <h2>📤 How to Submit Your Work</h2>
             <p>Follow these steps to submit your work:</p>
             <ol>
                 <li>Clone the repository: <code>git clone (repository-url)</code></li>
@@ -30,14 +30,14 @@
             </ol>
         </section>
         <section id="review">
-            <h2>Reviewing Process</h2>
+            <h2>👀 Reviewing Process</h2>
             <p>
                 Once you create a pull request, it will be reviewed. If changes are required, you will be notified in the PR comments. 
                 Once approved, your submission will be merged into the main branch.
             </p>
         </section>
         <section id="rules">
-            <h2>Rules for Submissions</h2>
+            <h2>⚙️ Rules for Submissions</h2>
             <ul>
                 <li>Each submission must be in its own branch.</li>
                 <li>Use descriptive commit messages for clarity.</li>
@@ -46,7 +46,7 @@
             </ul>
         </section>
         <section id="template">
-            <h2>Example Template for Submissions</h2>
+            <h2>📄 Example Template for Submissions</h2>
             <p>When creating a pull request, ensure to include the following details:</p>
             <ul>
                 <li><strong>Submission Details</strong></li>
@@ -58,7 +58,7 @@
             </ul>
         </section>
         <section id="tip">
-            <h2>Tip</h2>
+            <h2>🔧 Tip</h2>
             <p>
                 Always pull the latest changes from the main branch before creating a new branch:
             </p>
