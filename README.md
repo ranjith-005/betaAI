@@ -8,7 +8,7 @@
 <body>
     <header>
         <h1>BetaLabs AI Project</h1>
-        <p>This repository is designed for Group 2 members to submit their work for review. All submissions will be reviewed and approved before being merged into the main branch.</p>
+        <p>This repository is designed for Group 5 members to submit their work for review. All submissions will be reviewed and approved before being merged into the main branch.</p>
     </header>
     <main>
         <section id="submission">
